@@ -1,0 +1,39 @@
+# _config.yml
+
+name: Aprameya C V
+description: Development and Product Management Enthusiasist
+
+remote_theme: pages-themes/cayman@v0.4.0
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+navigation:
+  - title: Home
+    url: /
+
+  - title: Experience
+    url: /experience/
+
+  - title: Education
+    url: /education/
+
+  - title: Certifications
+    url: /certifications/
+
+  - title: Skills
+    url: /skills/
+
+  - title: Honors & Awards
+    url: /honors/
+
+social:
+  - title: Email
+    icon: envelope
+    url: mailto:aprameyacv01@gmail.com
+
+  - title: LinkedIn
+    icon: linkedin
+    url: https://linkedin.com/in/aprameya-c-v
+
