@@ -1,4 +1,3 @@
-## Mysore, Karnataka, India
 ## Gmail: aprameyacv01@gmail.com
 ## Linkedin: linkedin.com/in/aprameya-c-v
 ---
