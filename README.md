@@ -1,10 +1,3 @@
-# Aprameya C V
-
-Mysore, Karnataka, India
-
-Email: aprameyacv01@gmail.com
-
-LinkedIn: [linkedin.com/in/aprameya-c-v](linkedin.com/in/aprameya-c-v)
 
 ---
 
