@@ -1,3 +1,43 @@
-title: Aprameya C V
-description: A Software Development and Product Management Enthusiasist | Mysore, Karnataka, India
-theme: jekyll-theme-minimal
+# _config.yml
+
+name: Aprameya C V
+description: A Software Development and Product Management Enthusiast | Mysore, Karnataka, India
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+
+nav:
+  - title: Home
+    url: /
+
+  - title: Experience
+    url: /experience/
+
+  - title: Education
+    url: /education/
+
+  - title: Certifications
+    url: /certifications/
+
+  - title: Skills
+    url: /skills/
+
+  - title: Honors & Awards
+    url: /honors/
+
+social:
+  - title: LinkedIn
+    icon: linkedin
+    url: https://linkedin.com/in/aprameya-c-v
+
+  - title: Twitter
+    icon: twitter
+    url: https://twitter.com/your_twitter_handle
+
+  - title: Gmail
+    icon: envelope
+    url: mailto:aprameyacv01@gmail.com
