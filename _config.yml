@@ -3,6 +3,9 @@
 name:
   Aprameya C V
 
+logo:
+  /pfpg.png
+
 description: 
   A Software Development and Product Management Enthusiast
 theme: jekyll-theme-cayman
