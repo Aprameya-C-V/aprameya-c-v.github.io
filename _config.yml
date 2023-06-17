@@ -1,49 +1,13 @@
-# _config.yml
-
-name:
-  Aprameya C V
-
-logo:
-  "/pfpg.png"
-
-description: 
-  A Software Development and Product Management Enthusiast
-theme: jekyll-theme-minimal
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-markdown: kramdown
-
-nav:
-  - title: Home
-    url: /
-
-  - title: Experience
-    url: /experience/
-
-  - title: Education
-    url: /education/
-
-  - title: Certifications
-    url: /certifications/
-
-  - title: Skills
-    url: /skills/
-
-  - title: Honors & Awards
-    url: /honors/
-
-social:
-  - title: LinkedIn
-    icon: linkedin
-    url: https://linkedin.com/in/aprameya-c-v
-
-  - title: Twitter
-    icon: twitter
-    url: https://twitter.com/your_twitter_handle
-
-  - title: Gmail
-    icon: envelope
-    url: mailto:aprameyacv01@gmail.com
+title: Aprameya C V
+logo: "/pfpg.png"
+description: >
+  <br>
+  Product Management and Software Development Enthusiasist
+  <br>
+  <a href="https://www.linkedin.com/in/aprameya-c-v//">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:aprameyacv01@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+theme: jekyll-theme-cayman
