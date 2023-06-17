@@ -1,6 +1,9 @@
 ## Personal Portfolio
-## Gmail: aprameyacv01@gmail.com
-## Linkedin: linkedin.com/in/aprameya-c-v
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aprameya-c-v)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aprameyaa_cv)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:aprameyacv01@gmail.com)
+
 ---
 
 ## Summary
