@@ -8,7 +8,7 @@ logo:
 
 description: 
   A Software Development and Product Management Enthusiast
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-seo-tag
